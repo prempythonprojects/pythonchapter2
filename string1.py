@@ -11,3 +11,7 @@ lastname = "nair"
 
 fullname = firstname + " " + lastname
 print(fullname)
+
+print("Python")
+print("\tPython") #With tab
+
